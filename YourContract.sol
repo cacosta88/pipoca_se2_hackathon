@@ -1,7 +1,7 @@
 // Presenting a contract that lets two players engage in an epic battle of Tic Tac Toe,
 // and rewards the winner with a custom NFT of the game board's final state.
 // This build is for the scaffold-eth 2 hackathon (2023)
-// Author: @justagamingnow, AKA Pipoca, AKA CaioCosta.eth
+// Author: @justagamingnow
 
 pragma solidity ^0.8.0;
 
