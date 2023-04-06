@@ -1,4 +1,7 @@
+<p align="center"><img src="./tictac1.png" alt="Alt text for the image" width="200" height="200"></p>
+
 # The Origins of Tic Tac Toe
+
 Tic Tac Toe, also known as Noughts and Crosses or Xs and Os, traces its roots back to ancient Egypt around 1300 BCE, where it was called "Terni Lapilli."   
 
 The game was also played in the Roman Empire, and it became popular during the Middle Ages in England. This timeless game consists of a 3x3 grid where two players take turns marking their symbols, aiming to complete a row, column, or diagonal with three of their marks. Despite its simplicity, Tic Tac Toe has fascinated players for centuries, and it still captures the imagination of people around the world.
